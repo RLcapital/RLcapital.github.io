@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "A. Russell Lopez"
   pronouns         : # example: "she/her"  
-  bio              : "Economics student & CFA Level 1 Candidate"
+  bio              : "Economics Student & CFA Level 1 Candidate"
   location         : "Toronto, ON."
   employer         : "Toronto Metropolitan University"
   uri              : # www.hedge&theory.com
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : https://github.com/RLcapital
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  X                : https://x.com/HedgeANDTheory
+  X                : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -68,13 +68,13 @@ author:
   lastfm           : # Username
   linkedin         : https://www.linkedin.com/in/russell-lopez-a95392214
   mastodon         : # URL
-  medium           : # URL
+  subbstack        : www.hedgeandtheory.com
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : https://x.com/HedgeANDTheory
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -85,7 +85,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Reading list'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
