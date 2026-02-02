@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Welcome friend"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "A. Russell Lopez"
 description              : &description "Economics student"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "A. Russell Lopez"
   pronouns         : # example: "she/her"  
-  bio              : "Economics student & CFA level 1 candidate"
+  bio              : "Economics student & CFA Level 1 Candidate"
   location         : "Toronto, ON."
   employer         : "Toronto Metropolitan University"
   uri              : # www.hedge&theory.com
@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/russell-lopez-a95392214/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
