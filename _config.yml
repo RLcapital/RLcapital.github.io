@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/20240901_135001.jpg"
+  avatar           : "20240901_135001.jpg"
   name             : "A. Russell Lopez"
   pronouns         : # example: "she/her"  
   bio              : "Economics Student & CFA Level 1 Candidate"
