@@ -19,7 +19,7 @@ Some of my favourite writers.
 
 - [John Cochrane](https://www.grumpy-economist.com/) for essays on economics
 - [Aswath Damodaran](https://aswathdamodaran.substack.com/?utm_campaign=profile_chips) for capital markets
-- [Richard Werner](https://plotly.com/javascript/](https://rwerner.substack.com/) for economic analysis
+- [Richard Werner](https://rwerner.substack.com/) for economic analysis
 
 My vision
 ======
