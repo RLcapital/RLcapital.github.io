@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Tornto Metropolitan University Bachelor of Commerce in Economics w/ Minor in Finance
-  * *- Relevant Coursework: Mathematics for Economics, Advanced Microeconomics, Econometrics, Game Theory, Applied
-Research methods, Applied Economic Analysis, Investment Analysis, Money & Banking, Derivatives.* *
-  * *- Activities and societies: Ted Rogers TRACE Delegate | Interest Group (Sept. 2022–Dec. 2022)
-PennyDrops Research & Development Associate | Non-profit Organization (Jun 2024-Sept. 2025)* *
+  _Relevant Coursework: Mathematics for Economics, Advanced Microeconomics, Econometrics, Game Theory, Applied
+Research methods, Applied Economic Analysis, Investment Analysis, Money & Banking, Derivatives_
+  _Activities and societies: Ted Rogers TRACE Delegate | Interest Group (Sept. 2022–Dec. 2022)
+PennyDrops Research & Development Associate | Non-profit Organization (Jun 2024-Sept. 2025)_
 
 * CFA Level 1 Candidate for May 2026
 
@@ -55,4 +55,9 @@ Certifications
 Hobbies
 ======
 * Piano
-* Reading   
+* Reading great books
+* Writing essays
+* Resistance training
+* Gaming (over 100 titles on steam)
+* Debate
+* Philosophy
